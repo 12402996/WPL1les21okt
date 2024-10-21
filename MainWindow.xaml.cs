@@ -21,7 +21,7 @@ namespace WPL1les21okt
             InitializeComponent();
             //1st commit to feat branch
 
-            //oké van B
+            //oké van B verg
 =======
             //ok van T
         }
