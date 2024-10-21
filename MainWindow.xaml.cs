@@ -22,6 +22,8 @@ namespace WPL1les21okt
             //1st commit to feat branch
         }
 
+        //Ze noemen me CODDEURDERRRRR
+
         private void LogInButton_Click(object sender, RoutedEventArgs e)
         {
             if (NameTextBox.Text.Equals("admin") && PasswordTextBox.Text.Equals("admin"))
