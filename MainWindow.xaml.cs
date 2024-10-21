@@ -19,7 +19,10 @@ namespace WPL1les21okt
         public MainWindow()
         {
             InitializeComponent();
+            //1st commit to feat branch
         }
+
+        //Ze noemen me CODDEURDERRRRRqsdfjhkdvsqvsdfgv;
 
         private void LogInButton_Click(object sender, RoutedEventArgs e)
         {
