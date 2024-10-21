@@ -20,10 +20,10 @@ namespace WPL1les21okt
         {
             InitializeComponent();
             //1st commit to feat branch
-<<<<<<< HEAD
-            //oké
+
+            //oké van B
 =======
-            //ok
+            //ok van T
         }
 
         //Ze noemen me CODDEURDERRRRRqsdfjhkdvsqvsdfgv;
