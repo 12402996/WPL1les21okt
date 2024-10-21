@@ -22,8 +22,10 @@ namespace WPL1les21okt
             //1st commit to feat branch
 
             //oké van B verg
-=======
+
             //ok van T
+            //ok
+            //iets aangepast
         }
 
         //Ze noemen me CODDEURDERRRRRqsdfjhkdvsqvsdfgv;
